@@ -1,0 +1,11 @@
+.blu-alert img.alert-img{
+    max-height:90px;
+    opacity:0.8;
+}
+.blu-alert button.close{
+    font-size:2rem;
+    font-weight:bolder;
+}
+div.blu-alert{
+    padding-top:40px;
+}
